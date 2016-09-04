@@ -1,0 +1,7 @@
+字符串处理函数(1.string)
+---------------------------
+findstring  查找字符串
+patsubst    模式字符串替换
+strip       去除空格
+subst       字符串替换
+
