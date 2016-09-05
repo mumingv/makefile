@@ -1,0 +1,6 @@
+targets := a b c d
+objects := $(foreach i,$(targets),$(i).o)
+
+all:
+	@echo $(targets)
+	@echo $(objects)
