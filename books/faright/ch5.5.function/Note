@@ -1,18 +1,1 @@
-字符串处理函数(1.string)
----------------------------
-filter      过滤
-filter-out  反过滤
-findstring  查找字符串
-firstword   首单词
-patsubst    模式字符串替换
-sort        排序
-strip       去除空格
-subst       字符串替换
-word        取单词
-wordlist    取单词串
-words       单词个数统计
-
-
-文件名操作函数(2.filename)
----------------------------
-
+参考：~/git/makefile/function 目录
